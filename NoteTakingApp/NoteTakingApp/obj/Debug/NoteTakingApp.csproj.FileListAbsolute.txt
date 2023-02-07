@@ -1,0 +1,10 @@
+C:\Users\msilbernagel\Desktop\NoteTakingAppC#\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+C:\Users\msilbernagel\Desktop\NoteTakingAppC#\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+C:\Users\msilbernagel\Desktop\NoteTakingAppC#\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+C:\Users\msilbernagel\Desktop\NoteTakingAppC#\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csprojAssemblyReference.cache
+C:\Users\msilbernagel\Desktop\NoteTakingAppC#\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Form1.resources
+C:\Users\msilbernagel\Desktop\NoteTakingAppC#\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\msilbernagel\Desktop\NoteTakingAppC#\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+C:\Users\msilbernagel\Desktop\NoteTakingAppC#\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\msilbernagel\Desktop\NoteTakingAppC#\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+C:\Users\msilbernagel\Desktop\NoteTakingAppC#\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
